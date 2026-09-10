@@ -1,5 +1,3 @@
-# Google Cloud Platform (GCP) Research
-
 ## Brief Overview
 Google Cloud Platform (GCP) is Google's public cloud offering. It began in April 2008 with a preview of Google App Engine, which came out of preview in 2011, and the platform was branded "Google Cloud Platform" around 2013. GCP runs on the same infrastructure that powers Google Search, YouTube, and Gmail, which is why it's often associated with strong networking performance, data analytics, and AI/ML capabilities.
 
@@ -30,8 +28,6 @@ GCP is managed through the **Google Cloud Console**, a web-based dashboard for c
 - Running containerized applications with Kubernetes (GKE).
 - Data-heavy startups and research organizations that need high-performance computing at a reasonable cost.
 
-## Screenshot
-See `screenshots/gcp-homepage.png` for a screenshot of the official Google Cloud homepage/console.
 
 ## References
 - Google Cloud overview (Regions, zones, universes) – https://cloud.google.com/docs/overview
