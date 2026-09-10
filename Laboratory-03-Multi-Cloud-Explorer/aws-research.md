@@ -31,9 +31,6 @@ AWS is managed through the **AWS Management Console**, a web-based dashboard whe
 - Disaster recovery and backup, since resources can be replicated across Regions.
 - Machine learning workloads using services like Amazon SageMaker.
 
-## Screenshot
-See `screenshots/aws-homepage.png` for a screenshot of the official AWS homepage/console.
-
 ## References
 - AWS Regions and Availability Zones – https://docs.aws.amazon.com/global-infrastructure/latest/regions/aws-regions-availability-zones.html
 - AWS Global Infrastructure – https://aws.amazon.com/about-aws/global-infrastructure/
