@@ -12,7 +12,7 @@
 | Primary Strength | Widest range of services, most mature infrastructure | Deep integration with Microsoft products and hybrid cloud | AI/ML tools, data analytics, and Kubernetes |
 | Ideal Organizations | Startups to large enterprises needing broad service options | Organizations already using Windows Server, Microsoft 365, and Active Directory | AI/ML-focused teams, data-driven companies, Kubernetes users |
 
-## Analysis Questions
+## Follow Up Questions
 
 **1. Which cloud provider offers the broadest range of services?**
 AWS offers the broadest range of services. It has been in the market the longest, starting in 2006, so it has had more time to build out compute, storage, database, analytics, and AI services than the other two providers.
