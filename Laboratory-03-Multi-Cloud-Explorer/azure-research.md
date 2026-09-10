@@ -31,9 +31,6 @@ Azure resources are managed through the **Azure Portal**, a web-based dashboard.
 - Hybrid cloud setups where some systems stay on-premises and others move to Azure.
 - Business intelligence and analytics through Microsoft's ecosystem (e.g., Power BI integration).
 
-## Screenshot
-See `screenshots/azure-homepage.png` for a screenshot of the official Azure homepage/portal.
-
 ## References
 - Azure Global Infrastructure and Geographies – https://azure.microsoft.com/en-us/explore/global-infrastructure/geographies
 - Azure Regions List – https://learn.microsoft.com/en-us/azure/reliability/regions-list
