@@ -25,12 +25,16 @@ CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
 ## Commands Used 
 
 1.**List running containers**
-   Run `docker ps` — this shows all currently running containers, including their container ID, image, status, and port mappings. Confirm `my-nginx` appears with status "Up".
-2. **Stop the running container** 
+
+Run `docker ps` — this shows all currently running containers, including their container ID, image, status, and port mappings. Confirm `my-nginx` appears with status "Up".
+
+2. **Stop the running container**
    Run `docker stop my-nginx` — this sends a SIGTERM (then SIGKILL if needed) to gracefully shut down the container's main process without deleting the container itself.
-3. **Verify it is stopped**
+
+4. **Verify it is stopped**
    Run `docker ps -a` — the `-a` flag shows all containers regardless of state. You should see `my-nginx` listed with status "Exited" instead of "Up".
-4. **Remove the container completely**
+
+5. **Remove the container completely**
    Run `docker rm my-nginx` — this permanently deletes the stopped container and its writable layer. Run `docker ps -a` again afterward to confirm it's gone from the list.
 
 
