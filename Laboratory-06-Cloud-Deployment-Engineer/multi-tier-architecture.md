@@ -1,5 +1,3 @@
-# multi-tier-architecture.md
-
 # Two-Tier Architecture
 
 A **Two-Tier Architecture** is a software architecture model that separates an application into two main layers (tiers):
