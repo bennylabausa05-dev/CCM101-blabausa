@@ -5,3 +5,7 @@
 * Why Logs is Important
 It is very vital for every Application because if it breaks something this the first where we check what actually happened because it saves all of the history of request sent by \
 client it is like a cctv camera of the application it captures all logs.
+
+### Memory and CPU state
+* memory usage: **2.73MiB**
+* CPU percentage: **0.00%**
