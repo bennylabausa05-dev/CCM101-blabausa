@@ -20,6 +20,14 @@ At the end of this laboratory activity, you should be able to:
 - Complete the final chapter of your GitHub Cloud Computing Portfolio.
 
 ## Commands Executed
-
+- `mkdir app-data `
+- `echo "This is critical client data." > app-data/data.txt`
+- `nano backup.sh`
+- `/backup.sh`
+- `chmod +x backup.sh`
+- `ls -l backups/`
+- `crontab -l`
+- `env EDITOR=nano crontab -e`
 
 ### Skills Learned
+Create Backup file, Give Permission for file before execute, Automation - automate a task using script in cron job, 
